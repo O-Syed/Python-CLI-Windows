@@ -1,5 +1,5 @@
 
-## Installing a Python distribution for Windows CLI
+## Installing Python for Windows CMD / CLI
 
 This document gives the instructions to install a Python distribution with all dependencies required to create and Run python in Command Line in a Virtual Environment.
 
